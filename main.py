@@ -2,7 +2,8 @@
 """Entry program for the make.fun bounty: write the entry text to entry.txt.
 
 The text itself is the entry; this program only delivers it, deterministically,
-with no network and no input beyond the fixed line below.
+with no network and no input beyond the fixed line below. Resubmit v2: a
+fresher excuse than the round-2 entry, written for the final round.
 """
 import os
 
